@@ -1,0 +1,210 @@
+.about-us .helllooooooo-1 {
+  background: url('../assets/images/helllooooooo_1.png') 50% / cover no-repeat;
+  width: 138px;
+  height: 138px;
+}
+.about-us .home {
+  margin-right: 18px;
+  width: 90px;
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 30px;
+  color: #000000;
+}
+.about-us .project {
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 30px;
+  color: #000000;
+}
+.about-us .about-us-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 30px;
+  color: #000000;
+}
+.about-us .container-4 {
+  margin: 46px 0 56px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 504.5px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.about-us .container-3 {
+  margin: 0 84.4px 60px 11px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1344.6px;
+  box-sizing: border-box;
+}
+.about-us .about-us-1 {
+  margin: 0 0 94px 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 40px;
+  color: #000000;
+}
+.about-us .about-us-paintwithmusicnote {
+  border-radius: 10px;
+  background: url('../assets/images/about_us_paintwithmusicnote.jpeg') 50% / cover no-repeat;
+  margin: 0 75px 77px 74px;
+  width: 1291px;
+  height: 682px;
+}
+.about-us .we-are-multimedia-student-from-tunku-abdul-rahman-university-of-management-and-technology-tarumt-all-of-us-share-the-same-love-for-music-and-art-so-we-decided-to-make-this-for-our-portfolio-one-part-of-the-website-is-about-music-playlist-for-amood-and-suggestions-while-the-other-is-about-acharacter-story-to-understand-the-character {
+  margin-bottom: 146px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-style: italic;
+  font-weight: 100;
+  font-size: 36px;
+  color: #000000;
+}
+.about-us .our-team {
+  margin: 0 0 85px 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 40px;
+  color: #000000;
+}
+.about-us .aboutus-beefong {
+  border-radius: 10px;
+  background: url('../assets/images/aboutus_beefong.jpeg') 50% / cover no-repeat;
+  width: 304px;
+  height: 304px;
+}
+.about-us .aboutus-puiyee {
+  border-radius: 10px;
+  background: url('../assets/images/aboutus_puiyee.jpeg') 50% / cover no-repeat;
+  width: 304px;
+  height: 304px;
+}
+.about-us .aboutus-weiqin {
+  border-radius: 10px;
+  background: url('../assets/images/aboutus_weiqin.jpeg') 50% / cover no-repeat;
+  width: 304px;
+  height: 304px;
+}
+.about-us .container-2 {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 139px;
+  width: 1190px;
+  box-sizing: border-box;
+}
+.about-us .ng-bee-fong {
+  margin-right: 14.5px;
+  width: 290px;
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.about-us .ng-pui-yee {
+  margin-right: 160px;
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.about-us .har-wei-qin {
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.about-us .container {
+  margin-bottom: 151px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1018.6px;
+  box-sizing: border-box;
+}
+.about-us .aboutus-all-3-ofus {
+  border-radius: 10px;
+  background: url('../assets/images/aboutus_all_3_ofus.jpeg');
+  width: 900px;
+  height: 559px;
+  box-sizing: border-box;
+  background-size: cover;
+  background-position: 0 1200px;
+}
+.about-us .frame-8 {
+  border-radius: 10px;
+  display: flex;
+  width: 898px;
+  height: 559px;
+  box-sizing: border-box;
+}
+.about-us .container-1 {
+  background: #FFEAE5;
+  position: relative;
+  margin-bottom: 61px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 75px 125px 107px 125px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.about-us .contact {
+  margin: 0 0 45px 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 40px;
+  color: #000000;
+}
+.about-us .ways-to-contact-us-phone-no-0166355246-email-artisticsymphonygmail-com-instagramartistic-symphony-xiao-hong-shuartistic-symphony-tik-tokartistic-symphony {
+  margin: 0 70px 45px 70px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-style: italic;
+  font-weight: 700;
+  font-size: 32px;
+  color: #000000;
+}
+.about-us .aboutus-clown-is-me {
+  background: url('../assets/images/aboutus_clown_is_me.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: -139px;
+  height: 100%;
+}
+.about-us .frame-3 {
+  position: relative;
+  margin: 0 32px;
+  width: 1376px;
+  height: 762px;
+}
+.about-us {
+  background: #EAD6CF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 45px;
+  width: 1440px;
+  box-sizing: border-box;
+}

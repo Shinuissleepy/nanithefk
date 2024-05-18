@@ -1,0 +1,308 @@
+.project-2-understand-me-1 .vector-12 {
+  width: 13.5px;
+  height: 26.9px;
+}
+.project-2-understand-me-1 .umproject-button {
+  border-radius: 27.2px;
+  background: #5D5D5D;
+  position: relative;
+  margin: 6px 0 5.6px 0;
+  padding: 13.5px 17.9px 14px 17.9px;
+  width: 54.4px;
+  height: 54.4px;
+  box-sizing: border-box;
+}
+.project-2-understand-me-1 .gallery {
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 55px;
+  color: #000000;
+}
+.project-2-understand-me-1 .container-3 {
+  margin: 0 16px 95px 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 765px;
+  box-sizing: border-box;
+}
+.project-2-understand-me-1 .umproject-1-art {
+  border-radius: 10px;
+  background: url('../assets/images/umproject_1_art.png') 50% / cover no-repeat;
+  margin: 0 116px 0.1px 0;
+  width: 442px;
+  height: 442px;
+}
+.project-2-understand-me-1 .ilove-everything-you-do {
+  margin: 0 0 70px 7.4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 36px;
+  color: #000000;
+}
+.project-2-understand-me-1 .instagram {
+  margin-left: 60px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 24px;
+  color: #FFFFFF;
+  text-align:center;
+}
+.project-2-understand-me-1 .frame-16 {
+  border-radius: 20px;
+  background: #6D6D6D;
+  position: relative;
+  display: flex;
+  padding: 5.4px 0;
+  width: 190px;
+  height: fit-content;
+  box-sizing: border-box;
+
+}
+.project-2-understand-me-1 .umproject-insta-1 {
+  background: url('../assets/images/pngegg_311.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 48.1px;
+  height: 48.1px;
+}
+.project-2-understand-me-1 .group-7 {
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  padding: 3.7px 0 4.6px 0;
+  width: 198px;
+  box-sizing: border-box;
+}
+.project-2-understand-me-1 .container-4 {
+  margin-top: 281px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.project-2-understand-me-1 .container-7 {
+  margin: 0 1px 101.9px 1px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.project-2-understand-me-1 .you-can-entrust-the-rest-of-your-life-with-me-and-ill-save-all-my-love-for-you {
+  margin-bottom: 71px;
+  display: inline-block;
+  text-align: right;
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 36px;
+  color: #000000;
+}
+.project-2-understand-me-1 .instagram-3 {
+  margin-left: 60px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 24px;
+  color: #FFFFFF;
+  text-align:center;
+}
+.project-2-understand-me-1 .frame-163 {
+  border-radius: 20px;
+  background: #6D6D6D;
+  position: relative;
+  display: flex;
+  padding: 5.4px 0;
+  width: 190px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.project-2-understand-me-1 .umproject-insta-2 {
+  background: url('../assets/images/pngegg_311.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 48.1px;
+  height: 48.1px;
+}
+.project-2-understand-me-1 .group-8 {
+  position: relative;
+  margin: 0 0px;
+  display: flex;
+  padding: 3.7px 0 4.6px 0;
+  width: 198px;
+  box-sizing: border-box;
+}
+.project-2-understand-me-1 .container-8 {
+  margin: 555px 117px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.project-2-understand-me-1 .umproject-2-art {
+  border-radius: 10px;
+  background: url('../assets/images/umproject_2_art.png') 50% / cover no-repeat;
+  margin-bottom: 0.1px;
+  width: 559px;
+  height: 760px;
+}
+.project-2-understand-me-1 .container-6 {
+  margin: 0 0 101.9px 12.8px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.project-2-understand-me-1 .umproject-3-art {
+  background: url('../assets/images/umproject_3_art.png') 50% / cover no-repeat;
+  width: 559px;
+  height: 559px;
+}
+.project-2-understand-me-1 .frame-11 {
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  margin: 0 117px 0.1px 0;
+  display: flex;
+  width: 559px;
+  height: 559px;
+  box-sizing: border-box;
+}
+.project-2-understand-me-1 .what-you-trying-to-do {
+  margin: 0 0 70px 8.3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 36px;
+  color: #000000;
+}
+.project-2-understand-me-1 .instagram-1 {
+  margin-left:60px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 24px;
+  color: #FFFFFF;
+  text-align:center;
+}
+.project-2-understand-me-1 .frame-161 {
+  border-radius: 20px;
+  background: #6D6D6D;
+  position: relative;
+  display: flex;
+  padding: 5.4px 0;
+  width: 190px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.project-2-understand-me-1 .umproject-insta-3 {
+  background: url('../assets/images/pngegg_311.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 48.1px;
+  height: 48.1px;
+}
+.project-2-understand-me-1 .group-9 {
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  padding: 3.7px 0 4.6px 0;
+  width: 198px;
+  box-sizing: border-box;
+}
+.project-2-understand-me-1 .container-5 {
+  margin-top: 398px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.project-2-understand-me-1 .container {
+  margin-bottom: 101.9px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.project-2-understand-me-1 .will-you-accept-this-letter {
+  margin-bottom: 69px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 36px;
+  color: #000000;
+}
+.project-2-understand-me-1 .instagram-2 {
+  margin-left: 60px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 24px;
+  color: #FFFFFF;
+  text-align:center;
+}
+.project-2-understand-me-1 .frame-162 {
+  border-radius: 20px;
+  background: #6D6D6D;
+  position: relative;
+  display: flex;
+  padding: 5.4px 0;
+  width: 190px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.project-2-understand-me-1 .umproject-insta-4 {
+  background: url('../assets/images/pngegg_311.png') 50% / cover no-repeat;
+  position: absolute;
+  right: 50px;
+  left: 0px;
+  bottom: 0px;
+  width: 48.1px;
+  height: 48.1px;
+}
+.project-2-understand-me-1 .group-10 {
+  position: relative;
+  margin: 0 0px;
+  display: flex;
+  padding: 3.7px 0 4.6px 0;
+  width: 198px;
+  box-sizing: border-box;
+}
+.project-2-understand-me-1 .container-1 {
+  margin: 561px 116px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.project-2-understand-me-1 .umproject-4-art {
+  border-radius: 10px;
+  background: url('../assets/images/umproject_4_art_1.png') 50% / cover no-repeat;
+  margin-bottom: 0.1px;
+  width: 443px;
+  height: 721px;
+}
+.project-2-understand-me-1 .container-2 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-end;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.project-2-understand-me-1 {
+  background: #C9B8D8;
+  display: flex;
+  flex-direction: column;
+  padding: 32px 32px 126.9px 32px;
+  width: 1440px;
+  box-sizing: border-box;
+}

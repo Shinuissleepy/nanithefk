@@ -1,0 +1,189 @@
+.project .helllooooooo-1 {
+  background: url('../assets/images/helllooooooo_1.png') 50% / cover no-repeat;
+  width: 138px;
+  height: 138px;
+}
+.project .home-1 {
+  margin-right: 18px;
+  width: 100px;
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 30px;
+  color: #000000;
+  text-decoration: none;
+}
+.project .project-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 30px;
+  color: #000000;
+}
+.project .about-us {
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 30px;
+  color: #000000;
+}
+.project .container-2 {
+  margin: 33px 0 69px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 505.6px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.project .container {
+  margin-bottom: 124px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1344.6px;
+  box-sizing: border-box;
+}
+.project .xnfind-the-music-suits-you-best-listen-music-enjoy-music {
+  margin-bottom: 10px;
+  overflow-wrap: break-word;
+  font-family: 'Inter Serif';
+  font-style: italic;
+  font-weight: 600;
+  font-size: 40px;
+  color: #000000;
+}
+.xnfind-the-music-suits-you-best-listen-music-enjoy-music-sub-25 {
+  font-family: 'Inria Serif';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 1.333;
+}
+.xnfind-the-music-suits-you-best-listen-music-enjoy-music-2 {
+  font-family: 'Inria Serif';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 1.333;
+}
+.project .view {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.project .frame-13 {
+  border-radius: 200px;
+  background: #565656;
+  display: flex;
+  padding: 7px 0.6px 7px 0;
+  width: 140px;
+  height: fit-content;
+  box-sizing: border-box;
+  justify-content:center ;
+  align-items: center;
+}
+.project .group-13 {
+  border-radius: 200px;
+  display: flex;
+  align-self: flex-start;
+  width: 140px;
+  box-sizing: border-box;
+}
+.project .container-5 {
+  margin-bottom: 77px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.project .logo-1 {
+  background: url('../assets/images/logo_1.png') 50% / cover no-repeat;
+  width: 458px;
+  height: 386px;
+}
+.project .container-4 {
+  margin: 0 48.6px 210px 45px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1251px;
+  box-sizing: border-box;
+}
+.project .logo-understand-me {
+  background: url('../assets/images/logo_understand_me.png') 50% / cover no-repeat;
+  margin-right: 99px;
+  width: 440px;
+  height: 484px;
+}
+.project .understand-me-will-you-listen-to-my-story {
+  margin-bottom: 10px;
+  overflow-wrap: break-word;
+  font-family: 'Inter serif';
+  font-style: italic;
+  font-weight: 600;
+  font-size: 40px;
+  color: #000000;
+}
+.understand-me-will-you-listen-to-my-story-sub-22 {
+  font-family: 'Inria Serif';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 1.333;
+}
+.understand-me-will-you-listen-to-my-story {
+  font-family: 'Inria Serif';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 1.333;
+}
+.project .view-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.project .frame-14 {
+  border-radius: 20px;
+  background: #565656;
+  display: flex;
+  padding: 7px 0.6px 7px 0;
+  width: 140px;
+  height: fit-content;
+  box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
+}
+.project .group-14 {
+  border-radius: 20px;
+  display: flex;
+  align-self: flex-start;
+  width: 140px;
+  box-sizing: border-box;
+}
+.project .container-1 {
+  margin: 101px 0 12px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.project .container-3 {
+  margin: 0 41px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.project {
+  background: #EAD6CF;
+  display: flex;
+  flex-direction: column;
+  padding: 12px 84.4px 112px 11px;
+  width: 1440px;
+  box-sizing: border-box;
+}

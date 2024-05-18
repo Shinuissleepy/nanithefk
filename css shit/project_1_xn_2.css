@@ -1,0 +1,505 @@
+.project-1-xn-2 .helllooooooo-1 {
+  background: url('../assets/images/helllooooooo_1.png') 50% / cover no-repeat;
+  width: 138px;
+  height: 138px;
+}
+.project-1-xn-2 .home {
+  margin-right: 18px;
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 30px;
+  color: #000000;
+}
+.project-1-xn-2 .project {
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 30px;
+  color: #000000;
+}
+.project-1-xn-2 .about-us {
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 30px;
+  color: #000000;
+}
+.project-1-xn-2 .container-21 {
+  margin: 33px 0 69px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 505.6px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.project-1-xn-2 .container-3 {
+  margin: 0 83.2px 16px 11px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1345.8px;
+  box-sizing: border-box;
+}
+.project-1-xn-2 .container-22 {
+  background: url('../assets/images/website_header_design_21.jpeg');
+  position: relative;
+  margin-bottom: 85px;
+  display:flex;
+  flex-direction:row;
+  justify-content: space-between;
+  padding: 12px 83.2px 0 11px;
+  width: 1345px;
+  height: 966px;
+  background-size: cover;
+}
+.project-1-xn-2 .suggested {
+  margin: 0 55px 49px 55px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 45px;
+  color: #000000;
+}
+.project-1-xn-2 .tekit {
+  border-radius: 10px;
+  background: url('../assets/images/tekit.jpeg') 50% / cover no-repeat;
+  margin-right: 70px;
+  width: 279px;
+  height: 279px;
+}
+.project-1-xn-2 .tek-it-cafun {
+  margin-bottom: 25px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 40px;
+  color: #000000;
+}
+.tek-it-cafun-sub-0 {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 1.333;
+  color: #716E6E;
+}
+.project-1-xn-2 .pc-1-spotify-1 {
+  background: url('../assets/images/pngegg_301.png') 50% / cover no-repeat;
+  margin: 3px 22px 3px 0;
+  width: 50px;
+  height: 49px;
+}
+.project-1-xn-2 .pc-1-apple-1 {
+  background: url('../assets/images/pngegg_291.png') 50% / cover no-repeat;
+  width: 55px;
+  height: 55px;
+}
+.project-1-xn-2 .group-6 {
+  margin-right: 11.1px;
+  display: flex;
+  flex-direction: row;
+  width: 127px;
+  box-sizing: border-box;
+}
+.project-1-xn-2 .container-19 {
+  margin: 90px 0 13px 0;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.project-1-xn-2 .container-8 {
+  margin: 0 55px 94px 55px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.project-1-xn-2 .calloutmyname {
+  border-radius: 10px;
+  background: url('../assets/images/calloutmyname.jpeg') 50% / cover no-repeat;
+  margin-right: 70px;
+  width: 279px;
+  height: 279px;
+}
+.project-1-xn-2 .call-out-my-name-the-weeknd {
+  margin-bottom: 25px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 40px;
+  color: #000000;
+}
+.call-out-my-name-the-weeknd-sub-0 {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 1.333;
+  color: #716E6E;
+}
+.project-1-xn-2 .pc-1-spotify-2 {
+  background: url('../assets/images/pngegg_301.png') 50% / cover no-repeat;
+  margin: 3px 22px 3px 0;
+  width: 50px;
+  height: 49px;
+}
+.project-1-xn-2 .pc-1-apple-2 {
+  background: url('../assets/images/pngegg_291.png') 50% / cover no-repeat;
+  width: 55px;
+  height: 55px;
+}
+.project-1-xn-2 .group-4 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 127px;
+  box-sizing: border-box;
+}
+.project-1-xn-2 .container-13 {
+  margin: 92px 0 11px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.project-1-xn-2 .container-18 {
+  margin: 0 55px 94px 55px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.project-1-xn-2 .vivala {
+  border-radius: 10px;
+  background: url('../assets/images/vivala.png') 50% / cover no-repeat;
+  margin-right: 70px;
+  width: 279px;
+  height: 279px;
+}
+.viva-la-vida-coldplay-sub-0 {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 1.333;
+  color: #716E6E;
+}
+.project-1-xn-2 .viva-la-vida-coldplay {
+  margin-bottom: 25px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 40px;
+  color: #000000;
+}
+.project-1-xn-2 .pc-1-spotify-3 {
+  background: url('../assets/images/pngegg_301.png') 50% / cover no-repeat;
+  margin: 3px 22px 3px 0;
+  width: 50px;
+  height: 49px;
+}
+.project-1-xn-2 .pc-1-apple-3 {
+  background: url('../assets/images/pngegg_291.png') 50% / cover no-repeat;
+  width: 55px;
+  height: 55px;
+}
+.project-1-xn-2 .group-5 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 127px;
+  box-sizing: border-box;
+}
+.project-1-xn-2 .container-6 {
+  margin: 92px 0 11px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.project-1-xn-2 .container-5 {
+  margin: 0 55px 146px 55px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.project-1-xn-2 .genre {
+  margin-bottom: 56px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 45px;
+  color: #000000;
+}
+.project-1-xn-2 .pop-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+.project-1-xn-2 .container-7 {
+  border-radius: 10px;
+  background: url('../assets/images/pop.png') 50% / cover no-repeat;
+  position: relative;
+  padding: 38px 31px 0 31px;
+  width: 442px;
+  height: 229px;
+  box-sizing: border-box;
+}
+.project-1-xn-2 .love-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+.project-1-xn-2 .container-2 {
+  border-radius: 10px;
+  background: url('../assets/images/love.png');
+  position: relative;
+  padding: 38px 31px 0 31px;
+  width: 442px;
+  height: 229px;
+  box-sizing: border-box;
+  background-size: cover;
+  background-position: 0 300px;
+}
+.project-1-xn-2 .container-14 {
+  margin-bottom: 124px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1142px;
+  box-sizing: border-box;
+}
+.project-1-xn-2 .rock-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+.project-1-xn-2 .container-12 {
+  border-radius: 10px;
+  background: url('../assets/images/rock.png') 50% / cover no-repeat;
+  position: relative;
+  padding: 38px 31px 0 31px;
+  width: 442px;
+  height: 229px;
+  box-sizing: border-box;
+}
+.project-1-xn-2 .metal-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+.project-1-xn-2 .container-4 {
+  border-radius: 10px;
+  background: url('../assets/images/metal.png') 50% / cover no-repeat;
+  position: relative;
+  padding: 38px 31px 0 31px;
+  width: 442px;
+  height: 229px;
+  box-sizing: border-box;
+}
+.project-1-xn-2 .container-16 {
+  margin-bottom: 124px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1142px;
+  box-sizing: border-box;
+}
+.project-1-xn-2 .rb {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+.project-1-xn-2 .container {
+  border-radius: 10px;
+  background: url('../assets/images/rnbonly.jpeg') 50% / cover no-repeat;
+  position: relative;
+  padding: 38px 31px 0 31px;
+  width: 442px;
+  height: 229px;
+  box-sizing: border-box;
+}
+.project-1-xn-2 .jazz-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+.project-1-xn-2 .container-15 {
+  border-radius: 10px;
+  background: url('../assets/images/jazz.png') 50% / cover no-repeat;
+  position: relative;
+  padding: 38px 31px 0 31px;
+  width: 442px;
+  height: 229px;
+  box-sizing: border-box;
+}
+.project-1-xn-2 .container-9 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1142px;
+  box-sizing: border-box;
+}
+.project-1-xn-2 .container-1 {
+  background: #D1A1B7;
+  position: relative;
+  margin-bottom: 79px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 79px 55px 140px 55px;
+  box-sizing: border-box;
+}
+.project-1-xn-2 .artist {
+  margin: 0 55px 56px 55px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 45px;
+  color: #000000;
+}
+.project-1-xn-2 .jaychouu {
+  border-radius: 10px;
+  background: url('../assets/images/jaychouu.jpeg') 50% / cover no-repeat;
+  width: 300px;
+  height: 300px;
+}
+.project-1-xn-2 .jjlin {
+  border-radius: 10px;
+  background: url('../assets/images/jjlin.jpeg') 50% / cover no-repeat;
+  width: 300px;
+  height: 300px;
+}
+.project-1-xn-2 .justinbb {
+  border-radius: 10px;
+  background: url('../assets/images/justinbb.jpeg') 50% / cover no-repeat;
+  width: 300px;
+  height: 300px;
+}
+.project-1-xn-2 .container-17 {
+  margin: 0 104px 26px 104px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 166px;
+  width: 1232px;
+  box-sizing: border-box;
+}
+.project-1-xn-2 .jay-chou {
+  margin-right: 19px;
+  width: 160px;
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 32px;
+  color: #000000;
+}
+.project-1-xn-2 .jj-lin {
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 32px;
+  color: #000000;
+}
+.project-1-xn-2 .justin-bieber {
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 32px;
+  color: #000000;
+}
+.project-1-xn-2 .container-11 {
+  margin: 0 0 166px 31.9px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: center;
+  width: 1095.9px;
+  box-sizing: border-box;
+}
+.project-1-xn-2 .taylofs {
+  border-radius: 10px;
+  background: url('../assets/images/taylofs.jpeg') 50% / cover no-repeat;
+  width: 300px;
+  height: 300px;
+}
+.project-1-xn-2 .blackpink {
+  border-radius: 10px;
+  background: url('../assets/images/blackpink.jpeg') 50% / cover no-repeat;
+  width: 300px;
+  height: 300px;
+}
+.project-1-xn-2 .bts {
+  border-radius: 10px;
+  background: url('../assets/images/bts.jpeg') 50% / cover no-repeat;
+  width: 300px;
+  height: 300px;
+}
+.project-1-xn-2 .container-10 {
+  margin: 0 104px 26px 104px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 166px;
+  width: 1232px;
+  box-sizing: border-box;
+}
+.project-1-xn-2 .taylor-swift {
+  width: 130px;
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 32px;
+  color: #000000;
+  text-align: center;
+}
+.project-1-xn-2 .blackpink-1 {
+  margin-right:30px;
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 32px;
+  color: #000000;
+}
+.project-1-xn-2 .bts-1 {
+  margin-right:20px;
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 32px;
+  color: #000000;
+}
+.project-1-xn-2 .container-20 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: center;
+  width: 1045px;
+  box-sizing: border-box;
+}
+
+.project-1-xn-2 {
+  background: #EDC4D6;
+  display: flex;
+  flex-direction: column;
+  padding: 12px 0 123px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}

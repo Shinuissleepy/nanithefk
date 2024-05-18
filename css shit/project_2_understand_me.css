@@ -1,0 +1,71 @@
+.project-2-understand-me .helllooooooo-1 {
+  background: url('../assets/images/helllooooooo_1.png') 50% / cover no-repeat;
+  width: 138px;
+  height: 138px;
+}
+.project-2-understand-me .home {
+  margin-right: 18px;
+  width: 90px;
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 30px;
+  color: #000000;
+}
+.project-2-understand-me .project {
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 30px;
+  color: #000000;
+}
+.project-2-understand-me .about-us {
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 30px;
+  color: #000000;
+}
+.project-2-understand-me .container-1 {
+  margin: 33px 0 69px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 505.6px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.project-2-understand-me .container {
+  margin: 0 83.2px 16px 11px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1345.8px;
+  box-sizing: border-box;
+}
+.project-2-understand-me .gallery {
+  margin-left: 660px;
+  overflow-wrap: break-word;
+  font-family: 'Inria Serif';
+  font-weight: 700;
+  font-size: 30px;
+  color: #000000;
+}
+.project-2-understand-me .container-2 {
+  background: url('../assets/images/umhomepage_header.jpeg') 50% / cover no-repeat;
+  position: relative;
+  display: flex;
+  padding: 283px 9px 0 0;
+  width: 1440px;
+  height: 1093px;
+  box-sizing: border-box;
+}
+.project-2-understand-me {
+  background: #E7DFEA;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 12px;
+  width: 1440px;
+  box-sizing: border-box;
+}
